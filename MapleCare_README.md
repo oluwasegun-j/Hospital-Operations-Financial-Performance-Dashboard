@@ -313,7 +313,6 @@ maplecare-health-network-dashboard/
 ---
 
 ## 👤 About the Author
-## 👤 About the Author
 
 ### Oluwasegun Shobowale
 
